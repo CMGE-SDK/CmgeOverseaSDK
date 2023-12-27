@@ -3,7 +3,7 @@
   "version": "1.21.0",
   "summary": "A short description of CmgeOverseaSDK.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/Huajie Woo/CmgeOverseaSDK",
+  "homepage": "https://github.com/WakeyWoo/CmgeOverseaSDK",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "Huajie Woo": "wu.huajie@cmge.com"
   },
   "source": {
-    "git": "https://github.com/Huajie Woo/CmgeOverseaSDK.git",
+    "git": "https://github.com/WakeyWoo/CmgeOverseaSDK.git",
     "tag": "1.21.0"
   },
   "platforms": {

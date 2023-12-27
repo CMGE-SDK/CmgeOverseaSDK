@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/Huajie Woo/CmgeOverseaSDK'
+  s.homepage         = 'https://github.com/WakeyWoo/CmgeOverseaSDK'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Huajie Woo' => 'wu.huajie@cmge.com' }
-  s.source           = { :git => 'https://github.com/Huajie Woo/CmgeOverseaSDK.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/WakeyWoo/CmgeOverseaSDK.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.platform     = :ios, "13.0"
