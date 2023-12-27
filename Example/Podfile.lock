@@ -145,7 +145,7 @@ PODS:
   - PromisesObjC (2.3.1)
 
 DEPENDENCIES:
-  - CmgeOverseaSDK (from `../`)
+  - CmgeOverseaSDK (from `../CmgeOverseaSDK.podspec`)
 
 SPEC REPOS:
   trunk:
@@ -172,7 +172,7 @@ SPEC REPOS:
 
 EXTERNAL SOURCES:
   CmgeOverseaSDK:
-    :path: "../"
+    :podspec: "../CmgeOverseaSDK.podspec"
 
 SPEC CHECKSUMS:
   AppsFlyerFramework: c7b32b66c75f6e4313295c19944ee0ee59380ecf
@@ -197,6 +197,6 @@ SPEC CHECKSUMS:
   nanopb: d4d75c12cd1316f4a64e3c6963f879ecd4b5e0d5
   PromisesObjC: c50d2056b5253dadbd6c2bea79b0674bd5a52fa4
 
-PODFILE CHECKSUM: 27364b9fd0ba60e93bb26346f6f7acc3b119f609
+PODFILE CHECKSUM: 3928060181878deaaf0a40d7754f0e876212232c
 
 COCOAPODS: 1.14.2

@@ -2,6 +2,6 @@ platform :ios, '13.0'
 
 target 'JTLYDemo' do
   use_frameworks!
-  pod 'CmgeOverseaSDK', :path => '../'
-#  pod 'CmgeOverseaSDK',:podspec => '../CmgeOverseaSDK.podspec'
+#  pod 'CmgeOverseaSDK', :path => '../'
+  pod 'CmgeOverseaSDK',:podspec => '../CmgeOverseaSDK.podspec'
 end
