@@ -1,0 +1,14 @@
+${PODS_ROOT}/Target Support Files/CmgeOverseaSDK/CmgeOverseaSDK-xcframeworks.sh
+${PODS_ROOT}/../../CmgeOverseaSDK/Frameworks/AliyunLog/AliNetworkDiagnosis.xcframework
+${PODS_ROOT}/../../CmgeOverseaSDK/Frameworks/AliyunLog/AliyunLogCore.xcframework
+${PODS_ROOT}/../../CmgeOverseaSDK/Frameworks/AliyunLog/AliyunLogCrashReporter.xcframework
+${PODS_ROOT}/../../CmgeOverseaSDK/Frameworks/AliyunLog/AliyunLogNetworkDiagnosis.xcframework
+${PODS_ROOT}/../../CmgeOverseaSDK/Frameworks/AliyunLog/AliyunLogOT.xcframework
+${PODS_ROOT}/../../CmgeOverseaSDK/Frameworks/AliyunLog/AliyunLogOTSwift.xcframework
+${PODS_ROOT}/../../CmgeOverseaSDK/Frameworks/AliyunLog/AliyunLogProducer.xcframework
+${PODS_ROOT}/../../CmgeOverseaSDK/Frameworks/AliyunLog/AliyunLogTrace.xcframework
+${PODS_ROOT}/../../CmgeOverseaSDK/Frameworks/AliyunLog/AliyunLogURLSession.xcframework
+${PODS_ROOT}/../../CmgeOverseaSDK/Frameworks/AliyunLog/WPKMobi.xcframework
+${PODS_ROOT}/../../CmgeOverseaSDK/Frameworks/CmgeCore/CmgeStandardKit.xcframework
+${PODS_ROOT}/../../CmgeOverseaSDK/Frameworks/CmgeCore/CmgeIdentifierKit.xcframework
+${PODS_ROOT}/../../CmgeOverseaSDK/Frameworks/CmgeCore/CmgeShareKit.xcframework

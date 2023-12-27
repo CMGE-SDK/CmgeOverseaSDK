@@ -1,13 +1,9 @@
+
 use_frameworks!
 
-platform :ios, '10.0'
+platform :ios, '13.0'
 
-target 'CmgeOverseaSDK_Example' do
+target 'JTLYDemo' do
   pod 'CmgeOverseaSDK', :path => '../'
-
-  target 'CmgeOverseaSDK_Tests' do
-    inherit! :search_paths
-
-    
-  end
+#  pod 'CmgeOverseaSDK',:podspec => '../CmgeOverseaSDK.podspec'
 end
