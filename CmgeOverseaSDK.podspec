@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'CmgeOverseaSDK'
-  s.version          = '1.21.0'
-  s.summary          = 'A short description of CmgeOverseaSDK.'
+  s.version          = '1.22.0'
+  s.summary          = 'a plugin for mobile game'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,14 +18,14 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+CmgeSDK is a plugin for mobile game login and payment.
                        DESC
 
-  s.homepage         = 'https://github.com/WakeyWoo/CmgeOverseaSDK'
+  s.homepage         = 'https://github.com/CMGE-SDK/CmgeOverseaSDK'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'Huajie Woo' => 'wu.huajie@cmge.com' }
-  s.source           = { :git => 'https://github.com/WakeyWoo/CmgeOverseaSDK.git', :tag => s.version.to_s }
+  s.author           = { 'CMGE-SDK' => 'cmgegithub@outlook.com' }
+  s.source           = { :git => 'https://github.com/CMGE-SDK/CmgeOverseaSDK.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.platform     = :ios, "13.0"
